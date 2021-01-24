@@ -1,3 +1,5 @@
+#Time Complexity: O(t)
+#Space Complexity: O(t*n)
 import sys;
 from collections import deque;
 
